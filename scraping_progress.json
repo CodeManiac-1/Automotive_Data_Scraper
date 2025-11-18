@@ -1,0 +1,820 @@
+{
+  "fitment_data": [
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Headlight Bulb Low Beam",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321554"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Headlight Bulb High Beam",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321553"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Fog Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321550"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Brake Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321545"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Turn Signal Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321564"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Turn Signal Light Bulb Rear",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321565"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Back Up Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321544"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Side Marker Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321559"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Tail Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321562"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Daytime Running Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321548"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "License Plate Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321556"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Dome Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321549"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Center High Mount Stop Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321546"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Parking Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321558"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Map Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321557"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Trunk or Cargo Area Light",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321563"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Courtesy Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321547"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Glove Box Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321552"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Interior Door Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321555"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Footwell Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321551"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Side Mirror Signal Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321560"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "Integra",
+      "bulb_position": "Sun Visor Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "21",
+      "position_value": "321561"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Headlight Bulb Low Beam",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322131"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Headlight Bulb High Beam",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322130"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Fog Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322127"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Brake Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322123"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Turn Signal Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322140"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Turn Signal Light Bulb Rear",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322141"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Back Up Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322122"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Side Marker Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322136"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Side Marker Light Bulb Rear",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322137"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Tail Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322139"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Daytime Running Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322125"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "License Plate Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322132"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Dome Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322126"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Center High Mount Stop Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322124"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Parking Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322134"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Map Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322133"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Glove Box Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322129"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Footwell Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322128"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Puddle Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322135"
+    },
+    {
+      "year": "2025",
+      "make": "Acura",
+      "model": "MDX",
+      "bulb_position": "Side Mirror Signal Light Bulb",
+      "year_value": "2025",
+      "make_value": "3",
+      "model_value": "23",
+      "position_value": "322138"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Headlight Bulb Low Beam",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360194"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Headlight Bulb High Beam",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360193"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Fog Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360191"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Brake Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360186"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Turn Signal Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360205"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Turn Signal Light Bulb Rear",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360206"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Back Up Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360185"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Side Marker Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360200"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Side Marker Light Bulb Rear",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360201"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Tail Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360203"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Daytime Running Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360189"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "License Plate Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360196"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Dome Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360190"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Center High Mount Stop Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360187"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Parking Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360198"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Map Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360197"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Trunk or Cargo Area Light",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360204"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Courtesy Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360188"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Glove Box Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360192"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Interior Door Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360195"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Reading Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360199"
+    },
+    {
+      "year": "2025",
+      "make": "BMW",
+      "model": "X5",
+      "bulb_position": "Sun Visor Light Bulb",
+      "year_value": "2025",
+      "make_value": "24",
+      "model_value": "1123",
+      "position_value": "360202"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Fog Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413356"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Brake Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413352"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Turn Signal Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413366"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Turn Signal Light Bulb Rear",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413367"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Back Up Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413351"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Side Marker Light Bulb Front",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413362"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Side Marker Light Bulb Rear",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413363"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Tail Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413364"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "License Plate Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413359"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Dome Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413355"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Center High Mount Stop Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413353"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Parking Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413360"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Courtesy Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413354"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Glove Box Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413357"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Interior Door Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413358"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Reading Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413361"
+    },
+    {
+      "year": "2025",
+      "make": "Dodge",
+      "model": "Charger",
+      "bulb_position": "Trunk Light Bulb",
+      "year_value": "2025",
+      "make_value": "37",
+      "model_value": "1499",
+      "position_value": "413365"
+    }
+  ],
+  "last_processed": {
+    "year": "2025",
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  "timestamp": 1755042164.3945217
+}

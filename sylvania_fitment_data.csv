@@ -1,0 +1,82 @@
+year,make,model,bulb_position,year_value,make_value,model_value,position_value
+2025,Acura,Integra,Headlight Bulb Low Beam,2025,3,21,321554
+2025,Acura,Integra,Headlight Bulb High Beam,2025,3,21,321553
+2025,Acura,Integra,Fog Light Bulb,2025,3,21,321550
+2025,Acura,Integra,Brake Light Bulb,2025,3,21,321545
+2025,Acura,Integra,Turn Signal Light Bulb Front,2025,3,21,321564
+2025,Acura,Integra,Turn Signal Light Bulb Rear,2025,3,21,321565
+2025,Acura,Integra,Back Up Light Bulb,2025,3,21,321544
+2025,Acura,Integra,Side Marker Light Bulb Front,2025,3,21,321559
+2025,Acura,Integra,Tail Light Bulb,2025,3,21,321562
+2025,Acura,Integra,Daytime Running Light Bulb,2025,3,21,321548
+2025,Acura,Integra,License Plate Light Bulb,2025,3,21,321556
+2025,Acura,Integra,Dome Light Bulb,2025,3,21,321549
+2025,Acura,Integra,Center High Mount Stop Light Bulb,2025,3,21,321546
+2025,Acura,Integra,Parking Light Bulb,2025,3,21,321558
+2025,Acura,Integra,Map Light Bulb,2025,3,21,321557
+2025,Acura,Integra,Trunk or Cargo Area Light,2025,3,21,321563
+2025,Acura,Integra,Courtesy Light Bulb,2025,3,21,321547
+2025,Acura,Integra,Glove Box Light Bulb,2025,3,21,321552
+2025,Acura,Integra,Interior Door Light Bulb,2025,3,21,321555
+2025,Acura,Integra,Footwell Light Bulb,2025,3,21,321551
+2025,Acura,Integra,Side Mirror Signal Light Bulb,2025,3,21,321560
+2025,Acura,Integra,Sun Visor Light Bulb,2025,3,21,321561
+2025,Acura,MDX,Headlight Bulb Low Beam,2025,3,23,322131
+2025,Acura,MDX,Headlight Bulb High Beam,2025,3,23,322130
+2025,Acura,MDX,Fog Light Bulb,2025,3,23,322127
+2025,Acura,MDX,Brake Light Bulb,2025,3,23,322123
+2025,Acura,MDX,Turn Signal Light Bulb Front,2025,3,23,322140
+2025,Acura,MDX,Turn Signal Light Bulb Rear,2025,3,23,322141
+2025,Acura,MDX,Back Up Light Bulb,2025,3,23,322122
+2025,Acura,MDX,Side Marker Light Bulb Front,2025,3,23,322136
+2025,Acura,MDX,Side Marker Light Bulb Rear,2025,3,23,322137
+2025,Acura,MDX,Tail Light Bulb,2025,3,23,322139
+2025,Acura,MDX,Daytime Running Light Bulb,2025,3,23,322125
+2025,Acura,MDX,License Plate Light Bulb,2025,3,23,322132
+2025,Acura,MDX,Dome Light Bulb,2025,3,23,322126
+2025,Acura,MDX,Center High Mount Stop Light Bulb,2025,3,23,322124
+2025,Acura,MDX,Parking Light Bulb,2025,3,23,322134
+2025,Acura,MDX,Map Light Bulb,2025,3,23,322133
+2025,Acura,MDX,Glove Box Light Bulb,2025,3,23,322129
+2025,Acura,MDX,Footwell Light Bulb,2025,3,23,322128
+2025,Acura,MDX,Puddle Light Bulb,2025,3,23,322135
+2025,Acura,MDX,Side Mirror Signal Light Bulb,2025,3,23,322138
+2025,BMW,X5,Headlight Bulb Low Beam,2025,24,1123,360194
+2025,BMW,X5,Headlight Bulb High Beam,2025,24,1123,360193
+2025,BMW,X5,Fog Light Bulb,2025,24,1123,360191
+2025,BMW,X5,Brake Light Bulb,2025,24,1123,360186
+2025,BMW,X5,Turn Signal Light Bulb Front,2025,24,1123,360205
+2025,BMW,X5,Turn Signal Light Bulb Rear,2025,24,1123,360206
+2025,BMW,X5,Back Up Light Bulb,2025,24,1123,360185
+2025,BMW,X5,Side Marker Light Bulb Front,2025,24,1123,360200
+2025,BMW,X5,Side Marker Light Bulb Rear,2025,24,1123,360201
+2025,BMW,X5,Tail Light Bulb,2025,24,1123,360203
+2025,BMW,X5,Daytime Running Light Bulb,2025,24,1123,360189
+2025,BMW,X5,License Plate Light Bulb,2025,24,1123,360196
+2025,BMW,X5,Dome Light Bulb,2025,24,1123,360190
+2025,BMW,X5,Center High Mount Stop Light Bulb,2025,24,1123,360187
+2025,BMW,X5,Parking Light Bulb,2025,24,1123,360198
+2025,BMW,X5,Map Light Bulb,2025,24,1123,360197
+2025,BMW,X5,Trunk or Cargo Area Light,2025,24,1123,360204
+2025,BMW,X5,Courtesy Light Bulb,2025,24,1123,360188
+2025,BMW,X5,Glove Box Light Bulb,2025,24,1123,360192
+2025,BMW,X5,Interior Door Light Bulb,2025,24,1123,360195
+2025,BMW,X5,Reading Light Bulb,2025,24,1123,360199
+2025,BMW,X5,Sun Visor Light Bulb,2025,24,1123,360202
+2025,Dodge,Charger,Fog Light Bulb Front,2025,37,1499,413356
+2025,Dodge,Charger,Brake Light Bulb,2025,37,1499,413352
+2025,Dodge,Charger,Turn Signal Light Bulb Front,2025,37,1499,413366
+2025,Dodge,Charger,Turn Signal Light Bulb Rear,2025,37,1499,413367
+2025,Dodge,Charger,Back Up Light Bulb,2025,37,1499,413351
+2025,Dodge,Charger,Side Marker Light Bulb Front,2025,37,1499,413362
+2025,Dodge,Charger,Side Marker Light Bulb Rear,2025,37,1499,413363
+2025,Dodge,Charger,Tail Light Bulb,2025,37,1499,413364
+2025,Dodge,Charger,License Plate Light Bulb,2025,37,1499,413359
+2025,Dodge,Charger,Dome Light Bulb,2025,37,1499,413355
+2025,Dodge,Charger,Center High Mount Stop Light Bulb,2025,37,1499,413353
+2025,Dodge,Charger,Parking Light Bulb,2025,37,1499,413360
+2025,Dodge,Charger,Courtesy Light Bulb,2025,37,1499,413354
+2025,Dodge,Charger,Glove Box Light Bulb,2025,37,1499,413357
+2025,Dodge,Charger,Interior Door Light Bulb,2025,37,1499,413358
+2025,Dodge,Charger,Reading Light Bulb,2025,37,1499,413361
+2025,Dodge,Charger,Trunk Light Bulb,2025,37,1499,413365
